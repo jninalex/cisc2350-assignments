@@ -1,0 +1,55 @@
+/* style.css file */
+
+body{
+	background-color: lightblue;
+}
+
+h1 {
+	color: blue;
+	font-family: verdana;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2, h3 {
+	color: blue;
+	font-family: verdana;
+}
+
+
+h2.center {
+	text-align:center;
+}
+
+p {
+	font-family: helvetica;
+	font-size: 17px;
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+header {
+	border: dashed 1px pink;
+	padding: 10px;
+	margin: 10px;
+}
+
+div {
+	border: dotted 1px purple;
+	padding: 20px;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+}
