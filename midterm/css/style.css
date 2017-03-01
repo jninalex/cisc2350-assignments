@@ -1,0 +1,19 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	color: #070506;
+}
+
+h1, h2, h3, p {
+	margin: 0;
+}
+
+h1, h2, h3 {
+	font-family: verdana;
+}
+
+p, a {
+	font-family: helvetica;
+}
+
