@@ -28,12 +28,18 @@ h2, h3 {
 p {
 	font-family: helvetica;
 	font-size: 17px;
+	padding: 1rem;
 }
 
 a {
 	font-family: helvetica;
 	text-decoration: none;
 	color: #68838b;
+}
+
+a:hover {
+	color: #b03060;
+	text-decoration: underline;
 }
 
 /* header */
