@@ -14,6 +14,10 @@ h1, h2, h3, p {
 }
 
 h1 {
+	/*
+		YE - need to include font lists for backups
+		-2.5pts
+	*/
 	font-family: verdana;
 	text-align: center;
 	text-decoration: underline;
@@ -68,6 +72,7 @@ img.center {
 }
 
 /*
-	YE - didn't include any print styling
-	-10pts
+	YE
+	- didn't include any print styling -10pts
+	- no float or used -2.5pts
 */
