@@ -18,7 +18,7 @@ h1 {
 	text-align: center;
 	text-decoration: underline;
 	color: #104e8b;
-} 
+}
 
 h2, h3 {
 	font-family: verdana;
@@ -67,3 +67,7 @@ img.center {
 	padding: 1rem;
 }
 
+/*
+	YE - didn't include any print styling
+	-10pts
+*/
