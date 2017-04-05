@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<title>Jeanne Nina</title>
 		<meta charset="utf-8">
