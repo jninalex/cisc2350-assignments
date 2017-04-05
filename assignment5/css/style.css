@@ -25,6 +25,10 @@ h2, h3 {
 	text-align: center;
 }
 
+h4 {
+	text-align: center;
+}
+
 p {
 	font-family: helvetica;
 	font-size: 17px;
@@ -40,6 +44,10 @@ a {
 a:hover {
 	color: #b03060;
 	text-decoration: underline;
+}
+
+a.link{
+	padding: 1rem;
 }
 
 /* header */
@@ -65,5 +73,23 @@ img.center {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1rem;
+}
+
+/* media queries */
+
+@media only screen and (min-width: 768px) {
+	html{
+		font-size: 1rem;
+	}
+	h1 {
+		font-size: 2em;
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 1020px) {
+	p {
+		font-size: .8em;
+	}
 }
 
