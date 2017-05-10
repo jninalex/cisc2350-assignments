@@ -1,0 +1,90 @@
+body {
+	background-color: #eceff0;
+}
+
+body,
+input {
+	font: 1em "Open Sans", sans-serif;
+	color: #363639;
+}
+
+a {
+	text-decoration: none;
+}
+	
+.clock {
+	font: 2em "Open Sans", sans-serif;
+	text-align: center;
+	padding: 20px
+}
+
+.greeting {
+	font: 2em "Open Sans", sans-serif;
+	text-align: center;
+	padding: 20px
+}
+
+.list {
+	background-color: #fff;
+	margin: 20px auto;
+	width:1 00%;
+	max-width: 500px;
+	padding: 20px;
+	border-radius: 2px;
+	box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+	box-sizing: border-box;
+}
+
+@media only screen 
+	and (min-device-width: 375px)
+	and (max-device-width: 667px) {
+		html {
+	background-color: #eceff0;
+	}
+
+		h1 {
+	letter-spacing: 3px;
+	line-height: 0.5;
+	font-family: "Open Sans", sans-serif;
+	}
+
+		nav {
+	text-align: center;
+	}
+
+		img {
+	display: block;
+	margin: auto;
+	position: relative;
+	height: 300px;
+	width: 100px;
+	}
+
+}
+
+@media only screen 
+	and (min-device-width: 768px)
+	and (max-device-width: 667px)
+	and (orientation: portrait) {
+		html {
+	background-color: #eceff0;
+	}
+
+		h1 {
+	letter-spacing: 3px;
+	line-height: 0.5;
+	font-family: "Open Sans", sans-serif;
+	}
+
+		nav {
+	text-align: center;
+	}
+
+		img {
+	display: block;
+	margin: auto;
+	position: relative;
+	height: 300px;
+	width: 100px;
+	}
+}
